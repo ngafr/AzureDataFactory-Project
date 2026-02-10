@@ -1,0 +1,9 @@
+{
+	"name": "ADFNFRSandbox2026",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "51bddfbe-15c1-41e6-a464-6a1b98e60e4e",
+		"tenantId": "7bb1a8e5-59ee-489d-86f5-a50210ae3970"
+	}
+}
